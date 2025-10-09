@@ -26,12 +26,11 @@ Passionate about clean code, product design, and automation.
 ---
 
 ### 📊 GitHub Stats
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldi1995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldi1995&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/renaldi-widakdo-387153197/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaldi-widakdo-387153197/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://renaldi-portfolios.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rey.widakdo@gmail.com)
